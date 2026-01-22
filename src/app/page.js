@@ -137,14 +137,10 @@ export function Content() {
                 <ol className={"px-3"}>
                     <li>
                         <span className={"mx-2 font-bold"}>1. </span>
-                        Recipient says your calls are unreadable/quiet/etc
-                    </li>
-                    <li>
-                        <span className={"mx-2 font-bold"}>2. </span>
                         Your earlier calls didn't get any answer (and the reason isn't obvious)
                     </li>
                     <li>
-                        <span className={"mx-2 font-bold"}>3. </span>
+                        <span className={"mx-2 font-bold"}>2. </span>
                         You've been rectifying an audio/comms issue, and want confirmation it's fixed
                     </li>
                 </ol>
