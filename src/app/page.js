@@ -10,7 +10,7 @@ export default function Home() {
 export function Content() {
     return (
         <div className={"flex flex-col gap-3 container mx-auto py-3 lg:py-9 font-sans"}>
-            <h1 className={"text-7xl md:text-8xl lg:text-9xl lowercase tracking-wider font-light"}>
+            <h1 className={"text-7xl md:text-8xl lg:text-9xl lowercase tracking-wider font-thin"}>
                 No "radio check"
             </h1>
             <p className={"text-xl lowercase tracking-wider text-black/70 dark:text-white/70"}>
