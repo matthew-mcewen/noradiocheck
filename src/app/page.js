@@ -31,7 +31,7 @@ export function Content() {
                         </div>
                         <div className={"flex flex-row items-center gap-3"}>
                             <span className={"text-3xl"}>
-                                👷
+                                🧑‍💻
                             </span>
                             <p>
                                 ABC123, loud &amp; clear.
@@ -47,7 +47,7 @@ export function Content() {
                         </div>
                         <div className={"flex flex-row items-center gap-3"}>
                             <span className={"text-3xl"}>
-                                👷
+                                🧑‍💻
                             </span>
                             <p>
                                 &hellip; 🙄🙄
@@ -87,7 +87,7 @@ export function Content() {
                         </div>
                         <div className={"flex flex-row items-center gap-3"}>
                             <span className={"text-3xl"}>
-                                👷
+                                🧑‍💻
                             </span>
                             <p>
                                 ABC123, Anytown Tower, cleared to Donlon via flight planned route&hellip;
@@ -103,7 +103,7 @@ export function Content() {
                         </div>
                         <div className={"flex flex-row items-center gap-3"}>
                             <span className={"text-3xl"}>
-                                👷
+                                🧑‍💻
                             </span>
                             <p>
                                 👍🫡
