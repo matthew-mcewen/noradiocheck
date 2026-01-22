@@ -160,7 +160,7 @@ export function Footer() {
             </p>
             <p>
                 Inspired largely by <a href={"https://nohello.net"} className={"hover:underline decoration-dashed font-medium"}>nohello.net</a>,
-                and open-source on <a href={"https://github.com/noradiocheck"} className={"hover:underline decoration-dashed font-medium"}>GitHub</a>.
+                and open-source on <a href={"https://github.com/matthew-mcewen/noradiocheck"} className={"hover:underline decoration-dashed font-medium"}>GitHub</a>.
             </p>
             <p id={"nb"}>
                 NB: This page is written exclusively for &amp; about online flight simulation. It should go without saying:
