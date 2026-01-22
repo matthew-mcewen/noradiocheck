@@ -167,7 +167,9 @@ export function Footer() {
                 and open-source on <a href={"https://github.com/noradiocheck"} className={"hover:underline decoration-dashed font-medium"}>GitHub</a>.
             </p>
             <p id={"nb"}>
-                NB: This page is written about online flight simulation. It should go without saying: take flying advice from qualified instructors, not from a random web page.
+                NB: This page is written exclusively for &amp; about online flight simulation. It should go without saying:
+                take flying advice from qualified instructors, not from a random web page. No warranty is made about the
+                fitness or accuracy of this website's contents.
             </p>
         </div>
     )
